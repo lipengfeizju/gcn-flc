@@ -2,7 +2,7 @@
 
 Graph convolution network on incapacitated facility location problem  
 
-##Authors:
+## Authors:
 Pengfei Li, Yufan He, Guowei Lai, Rui Shen
 
 ## Data preparation
